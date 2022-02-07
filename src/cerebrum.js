@@ -1,1 +1,1 @@
-Console.log("This is CerebrumJS");
+console.log("This is CerebrumJS !");
